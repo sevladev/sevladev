@@ -1,16 +1,57 @@
 ## Hi there 👋
 
-<!--
-**sevladev/sevladev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+```javascript
+import Developer from "YourNick";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class AboutMe extends Developer {
+  name = "Your Name";
+  field = "Your Field";
+  work = "Your Workplace";
+  location = "Your Location";
+}
+
+class Skills extends Developer {
+  languages = [
+    "Javascript",
+    "typescript",
+    "python"
+  ];
+  databases = [
+    "mongodb",
+    "postgresql",
+    "mariadb",
+    "sql",
+    "neo4j",
+    "dynamodb",
+    "realmdb",
+    "watermelondb"
+  ];
+  frameworks = {
+    backend: [
+      "nestJS",
+      "express",
+      "nodeJS",
+      "fastify",
+      "graphQL"
+    ],
+    frontend: [
+      "react",
+      "nextJS",
+      "astro",
+      "vite",
+      "remix"
+    ],
+    mobile: [
+      "react-native",
+      "expo"
+    ]
+  };
+  technologies = [
+    "heroku",
+    "aws",
+    "google-cloud"
+  ];
+}
+```
