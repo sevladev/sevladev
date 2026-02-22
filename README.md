@@ -11,7 +11,7 @@ Building production systems at scale — from mobile apps to distributed backend
 <br>
 
 [![GitHub](https://img.shields.io/badge/-sevladev-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/sevladev)
-[![Gmail](https://img.shields.io/badge/-darlysson.alves.dev-0d1117?style=flat&logo=gmail&logoColor=white)](mailto:darlysson@thewisematrix.com)
+[![Gmail](https://img.shields.io/badge/-darlysson.alves.dev-0d1117?style=flat&logo=gmail&logoColor=white)](mailto:darlysson.alves.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/-drlssnlvs-0d1117?style=flat&logo=instagram&logoColor=white)](https://instagram.com/drlssnlvs)
 
 </div>
@@ -136,17 +136,19 @@ TypeScript · JavaScript · Python · Lua · Go · Rust · Swift · Kotlin · Ba
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sevladev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sevladev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" />
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sevladev&theme=github-dark&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=c9d1d9&area=true&area_color=1f6feb" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sevladev&theme=github-dark&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=c9d1d9&area=true&area_color=1f6feb" />
 
 </div>
 
 <br>
+
+<div align="center">
 
 </div>
 
