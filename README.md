@@ -140,12 +140,6 @@ TypeScript · JavaScript · Python · Lua · Go · Rust · Swift · Kotlin · Ba
 
 </div>
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sevladev&theme=github-dark&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=c9d1d9&area=true&area_color=1f6feb" />
-
-</div>
-
 <br>
 
 <div align="center">
